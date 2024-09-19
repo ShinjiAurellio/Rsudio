@@ -1,0 +1,2 @@
+prin =("SAYA SEDANG BELAJAR R")
+NAMA = "SHINJI"
